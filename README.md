@@ -79,6 +79,7 @@ During preprocessing, I created the following columns in the CSV file:
 ### Clinical Trials Data (JSON)
 
 {
+
 "Clinical Trial ID": "NCT00001832",
 "Intervention": [
 "INTERVENTION 1: ",
@@ -88,6 +89,7 @@ During preprocessing, I created the following columns in the CSV file:
 "  Abl Cells IV + Cyclophosphamide 60 mg/kg",
 "  Phase 1 Cyclophosphamide Dose Escalation: Fludarabine 5x25mg/m^2 + Cyclophosphamide 2x60mg/kg + Cells intravenous (IV)"
 ],
+
 "Eligibility": [
 "INCLUSION CRITERIA",
 "  Patients must have evaluable metastatic melanoma that is refractory to standard therapy.",
@@ -110,6 +112,7 @@ During preprocessing, I created the following columns in the CSV file:
 "  Patients who will receive high dose IL-2 as part of the phase I portion of this study or who will be randomized must be eligible to receive high dose IL-2.",
 "  Any patient receiving IL-2 must sign a durable power of attorney."
 ],
+
 "Results": [
 "Outcome Measurement: ",
 "  Clinical Response",
@@ -140,6 +143,7 @@ During preprocessing, I created the following columns in the CSV file:
 "  No Response: 3",
 "Stable Disease: 0"
 ],
+
 "Adverse Events": [
 "Adverse Events 1:",
 "  Total: 0/3 (0.00%)",
@@ -164,4 +168,5 @@ During preprocessing, I created the following columns in the CSV file:
 "  Vision blurred 0/3 (0.00%)",
 "  General symptom 0/3 (0.00%)"
 ]
+
 }
