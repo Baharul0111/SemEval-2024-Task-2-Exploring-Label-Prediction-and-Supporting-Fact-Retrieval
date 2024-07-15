@@ -24,7 +24,6 @@ This repository contains the code and results for my project on SemEval 2024 Tas
 
 The dataset contains one \`CT\` (Clinical Trials) folder which holds all clinical trials data in JSON format. Additionally, the \`Complete\_Dataset\` folder includes \`train.json\` and \`Gold\_test.json\` files. I have preprocessed these JSON files and converted them into a CSV file named \`merged\_dataset\_new.csv\`.
 
-You can see the dataset from the [link](https://github.com/ai-systems/nli4ct).
 
 ### Data Preprocessing
 
